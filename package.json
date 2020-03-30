@@ -1,5 +1,5 @@
 {
-  "name": "hdr",
+  "name": "@lfdoherty/hdr",
   "description": "Module for reading HDR image files",
   "version": "0.6.1",
   "homepage": "https://github.com/imbcmdth/hdr",
